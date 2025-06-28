@@ -1,0 +1,85 @@
+/* Style the header */
+header {
+  background-color: #1d0a08;
+  padding: 10px;
+  font-size: 15px;
+  color: rgb(34, 13, 13);
+}
+
+.btn-group button {
+  background-color: #291509; 
+  border: none;
+  color: rgb(182, 163, 157);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+ 
+}
+
+.btn-group .button:hover {
+  background-color: #5e524e;
+}
+body {
+  background-color: #f3ae8e;
+}
+h1 {
+   margin-left: 100px;
+  
+}
+
+h2 {
+  margin-left: 210px;
+}
+h2.oblique {
+  font-style: oblique;
+}
+
+h4 {
+ margin-left: 300px;
+}
+h4.oblique {
+  font-style: oblique;
+}
+h4{
+  font-size:30px;
+}
+
+
+
+.imgPersonal {
+  position: absolute;
+  right: 30px;
+  width: 800px;
+}
+
+
+
+#Portafolio
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 470px;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+    
+
