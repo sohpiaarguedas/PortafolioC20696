@@ -33,18 +33,20 @@ body {
 
 
 h1 {
-   margin-left: 100px;
+  
+   
+/* */ margin-left: 4px;
   
 }
 
 h2 {
-  margin-left: 93px;
+  margin-left: 143px;
 }
 h2.oblique {
   font-style: oblique;
 }
 
-h4 {margin-left: 93px;
+h4 {margin-left: 281px;
     
 }
 h4.oblique {
@@ -64,6 +66,9 @@ h4{
     margin-left: -37px;
 }
 
+.texto  {
+  text-align: center;
+}
 
 
 #Portafolio
