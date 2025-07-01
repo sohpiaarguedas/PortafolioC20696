@@ -44,8 +44,8 @@ h2.oblique {
   font-style: oblique;
 }
 
-h4 {
- margin-left: 300px;
+h4 {margin-left: 300px;
+    
 }
 h4.oblique {
   font-style: oblique;
@@ -57,10 +57,11 @@ h4{
 
 
 .imgPersonal {
- position: fixed; 
-  top: 0;           
-  right: 0;         
-  width: 600px;
+    position: absolute;
+    top: 0;
+    right: -207px;
+    width: 600px;
+    margin-left: -37px;
 }
 
 
