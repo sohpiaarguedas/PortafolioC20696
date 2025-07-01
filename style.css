@@ -25,6 +25,13 @@ header {
 body {
   background-color: #f3ae8e;
 }
+
+body {
+  font-family: "Lora", serif;
+}
+
+
+
 h1 {
    margin-left: 100px;
   
